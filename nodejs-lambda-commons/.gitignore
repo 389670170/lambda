@@ -1,0 +1,7 @@
+.DS_Store
+.idea/*
+*.zip
+configs/config_local.js
+node_modules/*
+*.log
+package-lock.json
